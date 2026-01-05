@@ -1,0 +1,9 @@
+# Application Streamlit basique - MNIST
+# Version simplifiée
+
+tensorflow
+streamlit
+Pillow
+numpy
+tensorflow-datasets
+
